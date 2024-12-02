@@ -1,0 +1,20 @@
+{
+  "name": "codeconnet",
+  "version": "1.0.0",
+  "description": "Collabs so good, they complile on the first try",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "backend"
+  ],
+  "author": "Satish Rathod",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
